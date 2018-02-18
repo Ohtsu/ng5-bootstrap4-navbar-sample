@@ -15,6 +15,10 @@ _Video Explanation_
 
 <https://youtu.be/MGEoxxalZEs>
 
+(Japanese:Angular5におけるBootstrap4 NavBarの利用方法)
+
+<https://youtu.be/QItH1OEbCrM>
+
 _Full Source Code_
 
 <https://github.com/Ohtsu/ng5-bootstrap4-navbar-sample>
