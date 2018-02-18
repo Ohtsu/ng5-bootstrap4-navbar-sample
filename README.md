@@ -1,17 +1,22 @@
 
-# _ng5-bootstrap4-navbar-sample_ Angular5 initial project installed with libraries which are needed for Bootstrap4
+# _ng5-bootstrap4-navbar-sample_ Angular5 sample project for Bootstrap4 NavBar
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
 
 
-_ng5-bootstrap4-navbar-sample_ is an Angular5 initial project for programmers who want to start up Bootstrap4 easily.
+_ng5-bootstrap4-navbar-sample_ is an Angular5 sample project for programmers who want to start up Bootstrap4 easily.
 
 _Video Explanation_
 
-(English)   <https://youtu.be/MGEoxxalZEs>
+(How to make this project)
 
-(Japanese)  <https://youtu.be/N-7doBn7J4w>
+ <https://youtu.be/dVDZ7_05XQk>
+
+(How to Setup Bootstrap4 Environments for Angular5)
+
+<https://youtu.be/MGEoxxalZEs>
 
 _Full Source Code_
+
 <https://github.com/Ohtsu/ng5-bootstrap4-navbar-sample>
 
 ## Overview 
@@ -66,12 +71,15 @@ If you start local server as follows, you can get the first page in your browser
 ```bash
 $ ng serve
 ```
-You will find the default page using Bootstrap4 button.
+You will find the default page using Bootstrap4 NavBar.
 
-  - ***First Page*** 
+  - ***For Desktop*** 
 
-  <img src="https://raw.githubusercontent.com/Ohtsu/images/master/ng5-bootstrap4/ng5-bootstrap4-navbar-sample_default_page_01.png" width= "640" >
+  <img src="https://raw.githubusercontent.com/Ohtsu/images/master/ng5-bootstrap4/ng5-bootstrap4-navbar_default_page_02.png" width= "640" >
 
+  - ***For Mobile*** 
+
+  <img src="https://raw.githubusercontent.com/Ohtsu/images/master/ng5-bootstrap4/ng5-bootstrap4-navbar_for_mobile_page_01.png" width= "320" >
 
 #### Stop Local Server
 
@@ -96,11 +104,25 @@ Input **Ctrl+C** and **y+Return** to stop the local server.
 
 <https://ng-bootstrap.github.io/#/getting-started>
 
+- "Bootstrap4 Examples",
+
+<http://getbootstrap.com/docs/4.0/examples/>
+
+- "How to Setup Bootstrap4 Environments for Angular5",
+
+<https://youtu.be/MGEoxxalZEs>
+
+- "Custom Library for Angular5",
+
+<https://www.udemy.com/draft/1461368/>
+
+- "Angular5用独自ライブラリの作成",
+
+<https://www.udemy.com/draft/1450138/>
 
 
 ## Change Log
 
- - 2018.1.12  version 0.0.1 uploaded
  - 2018.2.17  version 0.1.0 uploaded 
     - install @ng-bootstrap 1.0.0
     - css bootstrap/4.0.0
